@@ -1,4 +1,4 @@
-# **🎭 RansomMux - Prank Tool for Termux (Fake Ransomware Simulator)**  
+# **🎭 RansoMux - Prank Tool for Termux (Fake Ransomware Simulator)**  
 *(Harmless Joke App - No Actual Encryption or Damage!)*  
 
 **⚠️ DISCLAIMER:** This is a **100% fake** ransomware simulator designed **only for pranks between consenting friends**. It creates **no real harm**, encrypts **no files**, and demands **no actual payment**.  
