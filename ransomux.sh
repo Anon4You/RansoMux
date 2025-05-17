@@ -1,4 +1,10 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+# Tool name : RansoMux
+# Author    : Alienkrishn [Anon4You]
+# Copyright : © Alienkrishn
+# GitHub    : https://github.com/Anon4You/RansoMux.git
+
 
 # Colors for output
 RED='\033[0;31m'
